@@ -1,0 +1,16 @@
+{
+    "name": "agendamento",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chromedriver": "^91.0.1",
+        "nodemon": "^2.0.7",
+        "selenium-webdriver": "^4.0.0-beta.4"
+    }
+}
